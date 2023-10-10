@@ -6,6 +6,12 @@
 
 ***
 
+__MongoDB__ es una base de datos de documentos. Almacena datos de tipo de formato __JSON__ llamado __BSON__.
+
+Si no está familiarizado con __JSON__. Un registro en __MongoDB__ es un documento, que es una estructura de datos compuesta por pares clave-valor similar a la estructura de los objetos
+***
+
+
 
 
 
