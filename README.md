@@ -12,6 +12,9 @@ Si no está familiarizado con __JSON__. Un registro en __MongoDB__ es un documen
 ***
 
 
+![image](https://github.com/Brayan-Hc11/MongoDB/assets/118775234/3d59578d-ac90-4c37-808d-d8ef1c9405af)
+
+
 
 
 
